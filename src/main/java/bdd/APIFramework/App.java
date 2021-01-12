@@ -1,4 +1,4 @@
-package qaclickacademy;
+package bdd.APIFramework;
 
 /**
  * Hello world!
